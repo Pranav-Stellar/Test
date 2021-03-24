@@ -1,0 +1,20 @@
+1. C059 Roman
+2. Caladea Bold
+3. Caladea Regular
+4. Carlito Regular
+5. DejaVu Sans
+6. DejaVu Serif
+7. DejaVu Serif Italic
+8. Droid Sans
+9. Free Mono
+10. Free Serif
+11. Free Serif Italic
+12. Nimbus Mono PS Regular
+13. Nimbus Sans Regular
+14. Nimbus Sans Bold Italic
+15. Nimbus Sans Narrow
+16. P052 Roman
+17. Tahoma
+18. URW Bookman Light
+19. URW Gothic
+20. Liberation Serif Regular
